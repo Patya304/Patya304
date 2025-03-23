@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/955105941227991040)](https://discord.com/users/955105941227991040)
 ```zsh
-> Lost
+> drifting..
 ```
 
 <img align="left" src="https://raw.githubusercontent.com/Patya304/Patya304/main/Main/Logo.jpg" alt="Logo.jpg" width="200" /> 
