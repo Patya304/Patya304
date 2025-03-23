@@ -15,7 +15,7 @@ Hello you
       RAM  :  32 GB
     Alias  :  Kazy/Kaz/Kazai
   Discord  :  955105941227991040
-Languages  :  Lua & Python & C# & HTML/CSS &
+Languages  :  Lua & Python & C# & HTML/CSS
 ```
 <a href="https://github.com/Patya304">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Patya304&layout=compact&theme=radical&hide_border=true" />
