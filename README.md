@@ -12,7 +12,7 @@ Hello you
        OS  :  Windows 11 Pro
       CPU  :  AMD Ryzen 5 4600h
       GPU  :  NVIDIA GeForce RTX 3050
-      RAM  :  32 GB
+      RAM  :  16 GB
     Alias  :  Kazy/Kaz/Kazai
   Discord  :  955105941227991040
 Languages  :  Lua & Python & C# & HTML/CSS
